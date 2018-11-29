@@ -1,0 +1,2 @@
+# NumberCounter
+JS PRACTICE
